@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### ABOUT J_PARK (박재형)
+```
+Final J_PARK = {
+  String What_I_Studied =  Supply Chain and Operation(물류유통);
+  String What_I_Did =  Beauty company as Buyer;
+                       Rona as Night crew;  
+}
+```
 <!--
 **parkbs6974/parkbs6974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
