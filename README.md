@@ -1,9 +1,5 @@
 ### ABOUT J_PARK (박재형)
 
-**물류** 분야에서 IT **개발자**로 전향하고자 하는 박재형입니다. 
-
-이루고자 하는 **목표**를 정하면 배우고, 발전하면서 목표를 이루어 왔습니다.
-
 ```
 Final J_PARK = {
   String School = Centennial College in Toronto;
@@ -13,8 +9,7 @@ Final J_PARK = {
   String Where_I_Wokred =  Beauty Company as Buyer;
                            Rona as Night crew;
 
-  String Why_I_Want_Change_Feild = "물류 분야에서 근무를 하면서 IT가 가져오는 효율성 및 혁신을 경험하게 되어 전향하게 되었습니다" ;
-}
+
 ```
 <hr>
 <div align="center">
